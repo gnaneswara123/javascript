@@ -1,0 +1,31 @@
+/*h1{
+    color:blue;
+}
+#box{
+    height:250px;
+    width:100px;
+    background-color:blue;
+    color:white;
+    border:1px solid black;
+}*/
+.content{
+    color:red;
+}
+.newclass{
+    background-color:green;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color:green;
+    border:1px solid black;
+
+}
+.dark{
+    background-color:black;
+    color:white;
+}
+.light{
+    background-color:white;
+    color:black;
+}
